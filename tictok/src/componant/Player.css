@@ -1,0 +1,27 @@
+.player{
+    margin: 10px;
+
+}
+
+.player-name{
+margin: 10px;
+
+}
+input{
+   
+    text-align: center;
+    display: inline-block;
+    height: 40px;
+    background-color: rgb(58, 58, 58);
+    width: 155px;
+    border: 1px solid  rgb(58, 58, 58);
+    margin: 13px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.active{
+    border: 1px solid white;
+}
+         
+
+    
